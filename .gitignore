@@ -1,0 +1,4 @@
+.env
+stock_products_env/
+stocks_products/__pycache__/
+logistic/__pycache__
